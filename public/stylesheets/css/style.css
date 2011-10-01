@@ -609,6 +609,12 @@ caption {
   width: 940px;
   margin: 0 auto; }
 
+.left {
+  float: left; }
+
+.right {
+  float: right; }
+  
 .clear {
   clear: both; }
 
@@ -618,6 +624,9 @@ caption {
 .uppercase {
   text-transform: uppercase; }
 
+.block {
+  display: block; }
+  
 .titlecase {
   text-transform: capitalize; }
 
